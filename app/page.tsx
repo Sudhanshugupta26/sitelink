@@ -59,6 +59,24 @@ const resources: LearningResource[] = [
     color: '#0078D4',
     category: 'Learning Paths',
   },
+  {
+    id: 'unity',
+    name: 'Unity Learn',
+    url: 'https://unity.com/learn',
+    description: 'Master real-time 3D development with Unity tutorials and courses',
+    icon: '🎮',
+    color: '#000000',
+    category: 'Game Development',
+  },
+  {
+    id: 'unreal',
+    name: 'Unreal Engine',
+    url: 'https://www.unrealengine.com/en-US/learn',
+    description: 'Learn to create stunning 3D experiences with Unreal Engine',
+    icon: '🎲',
+    color: '#0e1128',
+    category: 'Game Development',
+  },
 ];
 
 export default function Home() {
