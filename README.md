@@ -31,6 +31,7 @@ You can set up SiteLink using a one-click deployment or manually via the termina
 Deploy your own copy of SiteLink to Vercel in seconds:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FTanay2920003%2Fsitelink)
+[![Watch Tutorial](https://img.shields.io/badge/Watch-Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/v2X51AVgl3o?t=221)
 
 ### 🖥️ GUI Setup (GitHub Desktop)
 
@@ -67,11 +68,13 @@ Follow these steps to set up the project manually.
 We welcome contributions! You don't need to be a terminal expert to help out.
 
 ### 📝 Edit via Web Interface (Easiest for quick fixes)
+<img width="618" height="134" alt="image" src="https://github.com/user-attachments/assets/a055f486-b64a-4aaf-82af-5665bf312299" />
 For small changes like fixing typos or adding a new link:
 1. Navigate to the file you want to change (e.g., `app/page.tsx`).
 2. Click the **Edit** (pencil icon) button at the top right.
 3. Make your changes and click **Commit changes...**.
 4. GitHub will guide you through creating a Pull Request.
+
 
 ### 🛠️ Using GitHub Desktop
 For larger features:
@@ -79,8 +82,7 @@ For larger features:
 2. **Clone** your fork using GitHub Desktop.
 3. Make your changes and **Commit** them within the app.
 4. Click **Push origin** to upload your changes.
-5. Create a **Pull Request** on the original repository.
-<img width="618" height="134" alt="image" src="https://github.com/user-attachments/assets/a055f486-b64a-4aaf-82af-5665bf312299" />
+5. **Create a Pull Request**: Visit the original repository on the GitHub website, where you'll see a prompt to "Compare & pull request" your recent changes.
 
 For more details, please read our [Contributing Guidelines](CONTRIBUTING.md).
 
