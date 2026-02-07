@@ -80,6 +80,7 @@ For larger features:
 3. Make your changes and **Commit** them within the app.
 4. Click **Push origin** to upload your changes.
 5. Create a **Pull Request** on the original repository.
+<img width="618" height="134" alt="image" src="https://github.com/user-attachments/assets/a055f486-b64a-4aaf-82af-5665bf312299" />
 
 For more details, please read our [Contributing Guidelines](CONTRIBUTING.md).
 
