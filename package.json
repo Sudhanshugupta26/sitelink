@@ -1,7 +1,26 @@
 {
   "name": "sitelink",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "description": "A stunning, responsive directory of premium developer learning resources.",
+  "author": "Tanay",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanay2920003/sitelink.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tanay2920003/sitelink/issues"
+  },
+  "homepage": "https://github.com/Tanay2920003/sitelink#readme",
+  "keywords": [
+    "learning",
+    "resources",
+    "directory",
+    "nextjs",
+    "typescript",
+    "glassmorphism"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
